@@ -14,6 +14,8 @@ Regarding the pricing:
 - in us-east-1 region gp3 is $0.08/GB-month, gp2 is $0.10/GB-month; gp3 is 20% cheaper
 - in eu-west-1 region gp3 is $0.0952/GB-month, gp2 is $0.1190/GB-month; gp3 is 20% cheaper again
 
+Terraform already supports the new volume type.
+
 ## Conclusions
 
 - use gp3 instead of gp2 for any volume of less than 1000GB in size
@@ -27,3 +29,4 @@ Regarding the pricing:
 
 - https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-new-amazon-ebs-general-purpose-volumes-gp3/
 - https://aws.amazon.com/ebs/pricing/
+- https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/ebs_volume
