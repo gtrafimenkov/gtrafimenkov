@@ -8,11 +8,6 @@ I've been:
 - working with Kubernetes since 2017
 - working with AWS since 2018
 
-## I am looking for
-
-Remote contract DevOps work, preferably related to AWS and Kubernetes.
-Part-time engagements starting from 10h / week.
-
 ## I can help you with
 
 - planning or reviewing the architecture of your systems
